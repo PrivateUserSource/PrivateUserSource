@@ -1,18 +1,38 @@
-<p align="center">
-  <img src="https://art.ngfiles.com/images/2349000/2349145_epscorp_discord-pfp.png?f1644682499" height="200"/>
-</p>
-<br>
+# Hi there, I'm **PrivateUser** 👋
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=PrivateUserSource&color=blue" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-15-blue" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm PrivateUser </h1>
-<h3 align="center">Backend / OGFN Launcher Dev</h3>
-<p align="center">
-<a href="https://discord.gg/rewindogfn" target="blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d2b8def-7b8d-4476-800d-597e3fcb5f07/dgt0pmh-6b1f2ed0-bcac-42da-92d3-4ef3dae67671.jpg/v1/fill/w_800,h_800,q_75,strp/discord_logo_hd_by_ijungakrom_dgt0pmh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvOWQyYjhkZWYtN2I4ZC00NDc2LTgwMGQtNTk3ZTNmY2I1ZjA3XC9kZ3QwcG1oLTZiMWYyZWQwLWJjYWMtNDJkYS05MmQzLTRlZjNkYWU2NzY3MS5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vpmXlAP3PkcjUmMN8TTVo5zgV6o0WrCci22uOwyhUDE" alt="hack_ovindu" height="30" width="40" /></a>
-</p>
-</p>
+## About Me
+
+👨‍💻 **Backend Developer & OG Fortnite Launcher Developer**   
+🔧 Experience with **JavaScript**, **TypeScript**, **Lua**, **Luau**, and **C++**  
+⚡ Currently using **JavaScript, Typescript, C++** for development
+
+## 💻 What I Do
+I develop Backends and Frontend API's for OG Fortnite seasons.
+
+My expertise includes:
+- **Backend Development**: Building robust APIs and services using **Node.js**, **Express**, and **Next.js**
+- **Game Development**: Working with **Lua** and **Luau** to create game scripts and systems
+- **C++**: Using it for game engine modifications and performance optimization
+- **Database Management**: Working with databases like MySQL and PostgreSQL
+- **Version Control**: Proficient in **Git** and **GitHub**
+
+## ⚡ Fun Facts
+- 💜 Purple is my favorite color.
+- 🎮 I love exploring the mechanics of **Fortnite** and working on game-related projects.
+- 💻 Always excited to dive deeper into **JavaScript** and **TypeScript** development.
+
+---
+
+### 📊 **GitHub Stats**
+
+![Profile View Count](https://komarev.com/ghpvc/?username=PrivateUserSource&color=purple)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrivateUserSource&show_icons=true&theme=radical)
+
+---
+
+### 📂 **Notable Projects**
+
+---
+
+### ✨ **Thanks for visiting my profile!** ✨
+Feel free to explore my repositories and check out some of my projects!
