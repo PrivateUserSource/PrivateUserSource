@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg](https://art.ngfiles.com/images/2349000/2349145_epscorp_discord-pfp.png?f1644682499)" height="200"/>
+  <img src="https://art.ngfiles.com/images/2349000/2349145_epscorp_discord-pfp.png?f1644682499" height="200"/>
 </p>
 <br>
 
