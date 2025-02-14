@@ -7,14 +7,7 @@
 ⚡ Currently using **JavaScript, Typescript, C++** for development
 
 ## 💻 What I Do
-I develop Backends and Frontend API's for OG Fortnite seasons.
-
-My expertise includes:
-- **Backend Development**: Building robust APIs and services using **Node.js**, **Express**, and **Next.js**
-- **Game Development**: Working with **Lua** and **Luau** to create game scripts and systems
-- **C++**: Using it for game engine modifications and performance optimization
-- **Database Management**: Working with databases like MySQL and PostgreSQL
-- **Version Control**: Proficient in **Git** and **GitHub**
+I develop Backends and Frontend API's for OG Fortnite seasons
 
 ## ⚡ Fun Facts
 - 💜 Purple is my favorite color.
