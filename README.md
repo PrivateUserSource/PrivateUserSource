@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=PrivateUserSource&color=purple" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=PrivateUserSource&color=blue" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-15-blue" />
