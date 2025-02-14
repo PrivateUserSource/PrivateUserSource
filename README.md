@@ -25,7 +25,7 @@ My expertise includes:
 
 ### 📊 **GitHub Stats**
 
-![Profile View Count](https://komarev.com/ghpvc/?username=PrivateUserSource&color=purple)  
+![Profile View Count](https://komarev.com/ghpvc/?username=PrivateUserSource&color=blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrivateUserSource&show_icons=true&theme=radical)
 
 ---
