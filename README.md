@@ -3,8 +3,8 @@
 ## About Me
 
 👨‍💻 **Backend Developer & OG Fortnite Launcher Developer**   
-🔧 Experience with **JavaScript**, **TypeScript**, **Lua**, **Luau**, and **C++**  
-⚡ Currently using **JavaScript, Typescript, C++** for development
+🔧 Experience with **GoLang**, **TypeScript**, **Lua**, **Luau**, and **C++**  
+⚡ Currently using **GoLang, Typescript, C++** for development
 
 ## 💻 What I Do
 I develop Backends and Frontend API's for OG Fortnite seasons
@@ -12,7 +12,7 @@ I develop Backends and Frontend API's for OG Fortnite seasons
 ## ⚡ Fun Facts
 - 💜 Purple is my favorite color.
 - 🎮 I love exploring the mechanics of **Fortnite** and working on game-related projects.
-- 💻 Always excited to dive deeper into **JavaScript** and **TypeScript** development.
+- 💻 Always excited to dive deeper into **GoLang** and **TypeScript** development.
 
 ---
 
